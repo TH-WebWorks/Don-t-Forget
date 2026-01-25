@@ -6,7 +6,7 @@ The app is designed to ship **web-first as a Progressive Web App (PWA)** and lat
 
 Core promise:
 - One focus
-- One next step
+- One optional next step (when helpful)
 - One boundary
 
 The app exists to reduce cognitive load, not create more of it.
@@ -92,10 +92,11 @@ Each screen should have:
 ## UX and behavior rules
 
 ### Daily Orientation structure
-The main screen always answers:
-1. What matters today?
-2. What is enough?
-3. What can I let go of?
+The main screen is oriented around:
+What matters today
+What is enough
+What can be let go of
+Not all prompts appear every day.
 
 Implemented as:
 - Focus (singular)
