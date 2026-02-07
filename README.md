@@ -34,7 +34,7 @@ System auto‑classifies entries:
 
 Example:
 
-> “Email Ron about documentary site assets”  
+> “Email John Doe about business site assets”  
 
 Auto‑becomes:
 
